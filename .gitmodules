@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Poly4AT"]
+	path = Poly4AT
+	url = https://github.com/farmse988/poly4at
